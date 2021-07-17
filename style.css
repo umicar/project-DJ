@@ -1,0 +1,40 @@
+body{
+    background-size:cover ;
+}
+
+.heading{
+    width: 100%;
+    font-size: 25px;
+ margin: 0;
+ box-shadow: 5px 5px 5px rgb(229, 255, 0);
+}
+
+.note{
+    font-size: 15px;
+    color: blue;
+}
+.speed{
+    float: left;
+}
+
+
+.volume{
+    float: right;
+}
+
+.btn-info{
+    font-size: 25px;
+    width: 100px;
+    box-shadow:5px 5px 5px rgb(0, 255, 8);
+}
+
+.btn-success{
+    font-size: 20px;
+}
+
+canvas{
+    border:5px solid red ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(5, 20, 240);
+   
+}
